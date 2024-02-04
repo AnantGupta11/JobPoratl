@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnantGupta11/JobPoratl/issues"
   },
-  "homepage": "https://github.com/AnantGupta11/JobPoratl#readme"
+  "homepage": "https://github.com/AnantGupta11/JobPoratl#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
